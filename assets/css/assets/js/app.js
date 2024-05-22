@@ -38,20 +38,83 @@ console.log(carbrand[2]);
 carbrand.push("bmv");
 
 //If Else Statements
-let usernamse = "kim";
+let userName = "kim";
 
 let usernamse = 17;
 
-if ((usernamse = "hans")) {
+if ((userName = "hans")) {
   // javescript logik
   //console.log("hej hans")
 } 
 
+
+
 else {
 console.log("oh God the battle belongs to you God")
 }
+
+
+if (userage >=18 && userage >=25){
+  console.log("jesus died for you")
+}
+
+
+else if (userage > 25){
+  console.log("du er for gammel")
+}
+
+
 else{
     console.log("du er elsket")
 }
+
+let test = 10;
+let testtwo = "10";
+
+if (testtwo === "10"){
+  console.log ("ja")
+}
+else{
+  console.log("nej")
+}
+
+if(userName === "kim" && userage >= 18{
+  console.log("vellkomen til siden")
+}
+
+else{
+  console.log("du har ikke adgang til siden ")
+}
+
+//number / tal variabler 
+let number = 1;
+let numbertwo 1;
+console.log(number + numbertwo);
+
+//string variabel
+let tekst ="hej";
+let tekst2 = "back to life"
+
+console.log(tekst+tekst2);
+
+tekst 2 ="kim";
+
+console.log(tekst+tekst2)
+
+let overskrift = document.getElementById("overskrift");
+let paragraph = document.getElementById("paragraph")
+
+overskrift.innerText = "o when i fight i fight on my kness"
+
+paragraph.innerText = "so when i fight i fight on my kness with my hands lifted high ogh God battle belongs to you"
+
+//while lops-løkker
+
+
+
+
+
+
+
 
 
