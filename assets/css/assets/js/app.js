@@ -45,5 +45,13 @@ let usernamse = 17;
 if ((usernamse = "hans")) {
   // javescript logik
   //console.log("hej hans")
-} else {
+} 
+
+else {
+console.log("oh God the battle belongs to you God")
 }
+else{
+    console.log("du er elsket")
+}
+
+
